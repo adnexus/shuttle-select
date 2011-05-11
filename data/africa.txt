@@ -1,0 +1,116 @@
+AF      DZ      DZA     12      Algeria, People's Democratic Republic of
+AF      AO      AGO     24      Angola, Republic of
+AF      BW      BWA     72      Botswana, Republic of
+AF      BI      BDI     108     Burundi, Republic of
+AF      CM      CMR     120     Cameroon, Republic of
+AF      CV      CPV     132     Cape Verde, Republic of
+AF      CF      CAF     140     Central African Republic
+AF      TD      TCD     148     Chad, Republic of
+AF      KM      COM     174     Comoros, Union of the
+AF      YT      MYT     175     Mayotte
+AF      CG      COG     178     Congo, Republic of the
+AF      CD      COD     180     Congo, Democratic Republic of the
+AF      BJ      BEN     204     Benin, Republic of
+AF      GQ      GNQ     226     Equatorial Guinea, Republic of
+AF      ET      ETH     231     Ethiopia, Federal Democratic Republic of
+AF      ER      ERI     232     Eritrea, State of
+AF      DJ      DJI     262     Djibouti, Republic of
+AF      GA      GAB     266     Gabon, Gabonese Republic
+AF      GM      GMB     270     Gambia, Republic of the
+AF      GH      GHA     288     Ghana, Republic of
+AF      GN      GIN     324     Guinea, Republic of
+AF      CI      CIV     384     Cote d'Ivoire, Republic of
+AF      KE      KEN     404     Kenya, Republic of
+AF      LS      LSO     426     Lesotho, Kingdom of
+AF      LR      LBR     430     Liberia, Republic of
+AF      LY      LBY     434     Libyan Arab Jamahiriya
+AF      MG      MDG     450     Madagascar, Republic of
+AF      MW      MWI     454     Malawi, Republic of
+AF      ML      MLI     466     Mali, Republic of
+AF      MR      MRT     478     Mauritania, Islamic Republic of
+AF      MU      MUS     480     Mauritius, Republic of
+AF      MA      MAR     504     Morocco, Kingdom of
+AF      MZ      MOZ     508     Mozambique, Republic of
+AF      NA      NAM     516     Namibia, Republic of
+AF      NE      NER     562     Niger, Republic of
+AF      NG      NGA     566     Nigeria, Federal Republic of
+AF      GW      GNB     624     Guinea-Bissau, Republic of
+AF      RE      REU     638     Reunion
+AF      RW      RWA     646     Rwanda, Republic of
+AF      SH      SHN     654     Saint Helena
+AF      ST      STP     678     Sao Tome and Principe, Democratic Republic of
+AF      SN      SEN     686     Senegal, Republic of
+AF      SC      SYC     690     Seychelles, Republic of
+AF      SL      SLE     694     Sierra Leone, Republic of
+AF      SO      SOM     706     Somalia, Somali Republic
+AF      ZA      ZAF     710     South Africa, Republic of
+AF      ZW      ZWE     716     Zimbabwe, Republic of
+AF      EH      ESH     732     Western Sahara
+AF      SD      SDN     736     Sudan, Republic of
+AF      SZ      SWZ     748     Swaziland, Kingdom of
+AF      TG      TGO     768     Togo, Togolese Republic
+AF      TN      TUN     788     Tunisia, Tunisian Republic
+AF      UG      UGA     800     Uganda, Republic of
+AF      EG      EGY     818     Egypt, Arab Republic of
+AF      TZ      TZA     834     Tanzania, United Republic of
+AF      BF      BFA     854     Burkina Faso
+AF      ZM      ZMB     894     Zambia, Republic of
+
+
+"Algeria, People's Democratic Republic of",
+"Angola, Republic of",
+"Botswana, Republic of",
+"Burundi, Republic of",
+"Cameroon, Republic of",
+"Cape Verde, Republic of",
+"Central African Republic",
+"Chad, Republic of",
+"Comoros, Union of the",
+"Mayotte",
+"Congo, Republic of the",
+"Congo, Democratic Republic of the",
+"Benin, Republic of",
+"Equatorial Guinea, Republic of",
+"Ethiopia, Federal Democratic Republic of",
+"Eritrea, State of",
+"Djibouti, Republic of",
+"Gabon, Gabonese Republic",
+"Gambia, Republic of the",
+"Ghana, Republic of",
+"Guinea, Republic of",
+"Cote d'Ivoire, Republic of",
+"Kenya, Republic of",
+"Lesotho, Kingdom of",
+"Liberia, Republic of",
+"Libyan Arab Jamahiriya",
+"Madagascar, Republic of",
+"Malawi, Republic of",
+"Mali, Republic of",
+"Mauritania, Islamic Republic of",
+"Mauritius, Republic of",
+"Morocco, Kingdom of",
+"Mozambique, Republic of",
+"Namibia, Republic of",
+"Niger, Republic of",
+"Nigeria, Federal Republic of",
+"Guinea-Bissau, Republic of",
+"Reunion",
+"Rwanda, Republic of",
+"Saint Helena",
+"Sao Tome and Principe, Democratic Republic of",
+"Senegal, Republic of",
+"Seychelles, Republic of",
+"Sierra Leone, Republic of",
+"Somalia, Somali Republic",
+"South Africa, Republic of",
+"Zimbabwe, Republic of",
+"Western Sahara",
+"Sudan, Republic of",
+"Swaziland, Kingdom of",
+"Togo, Togolese Republic",
+"Tunisia, Tunisian Republic",
+"Uganda, Republic of",
+"Egypt, Arab Republic of",
+"Tanzania, United Republic of",
+"Burkina Faso",
+"Zambia, Republic of",

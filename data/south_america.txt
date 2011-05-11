@@ -1,0 +1,30 @@
+SA      AR      ARG     32      Argentina, Argentine Republic
+SA      BO      BOL     68      Bolivia, Republic of
+SA      BR      BRA     76      Brazil, Federative Republic of
+SA      CL      CHL     152     Chile, Republic of
+SA      CO      COL     170     Colombia, Republic of
+SA      EC      ECU     218     Ecuador, Republic of
+SA      FK      FLK     238     Falkland Islands (Malvinas)
+SA      GF      GUF     254     French Guiana
+SA      GY      GUY     328     Guyana, Co-operative Republic of
+SA      PY      PRY     600     Paraguay, Republic of
+SA      PE      PER     604     Peru, Republic of
+SA      SR      SUR     740     Suriname, Republic of
+SA      UY      URY     858     Uruguay, Eastern Republic of
+SA      VE      VEN     862     Venezuela, Bolivarian Republic of
+
+
+"Argentina, Argentine Republic",
+"Bolivia, Republic of",
+"Brazil, Federative Republic of",
+"Chile, Republic of",
+"Colombia, Republic of",
+"Ecuador, Republic of",
+"Falkland Islands (Malvinas)",
+"French Guiana",
+"Guyana, Co-operative Republic of",
+"Paraguay, Republic of",
+"Peru, Republic of",
+"Suriname, Republic of",
+"Uruguay, Eastern Republic of",
+"Venezuela, Bolivarian Republic of"

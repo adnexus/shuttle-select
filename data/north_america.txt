@@ -1,0 +1,88 @@
+NA      AG      ATG     28      Antigua and Barbuda
+NA      BS      BHS     44      Bahamas, Commonwealth of the
+NA      BB      BRB     52      Barbados
+NA      BM      BMU     60      Bermuda
+NA      BZ      BLZ     84      Belize
+NA      VG      VGB     92      British Virgin Islands
+NA      CA      CAN     124     Canada
+NA      KY      CYM     136     Cayman Islands
+NA      CR      CRI     188     Costa Rica, Republic of
+NA      CU      CUB     192     Cuba, Republic of
+NA      DM      DMA     212     Dominica, Commonwealth of
+NA      DO      DOM     214     Dominican Republic
+NA      SV      SLV     222     El Salvador, Republic of
+NA      GL      GRL     304     Greenland
+NA      GD      GRD     308     Grenada
+NA      GP      GLP     312     Guadeloupe
+NA      GT      GTM     320     Guatemala, Republic of
+NA      HT      HTI     332     Haiti, Republic of
+NA      HN      HND     340     Honduras, Republic of
+NA      JM      JAM     388     Jamaica
+NA      MQ      MTQ     474     Martinique
+NA      MX      MEX     484     Mexico, United Mexican States
+NA      MS      MSR     500     Montserrat
+NA      AN      ANT     530     Netherlands Antilles
+NA      CW      CUW     531     Curaçao
+NA      AW      ABW     533     Aruba
+NA      SX      SXM     534     Sint Maarten (Netherlands)
+NA      BQ      BES     535     Bonaire, Saint Eustatius and Saba
+NA      NI      NIC     558     Nicaragua, Republic of
+NA      UM      UMI     581     United States Minor Outlying Islands
+NA      PA      PAN     591     Panama, Republic of
+NA      PR      PRI     630     Puerto Rico, Commonwealth of
+NA      BL      BLM     652     Saint Barthelemy
+NA      KN      KNA     659     Saint Kitts and Nevis, Federation of
+NA      AI      AIA     660     Anguilla
+NA      LC      LCA     662     Saint Lucia
+NA      MF      MAF     663     Saint Martin
+NA      PM      SPM     666     Saint Pierre and Miquelon
+NA      VC      VCT     670     Saint Vincent and the Grenadines
+NA      TT      TTO     780     Trinidad and Tobago, Republic of
+NA      TC      TCA     796     Turks and Caicos Islands
+NA      US      USA     840     United States of America
+NA      VI      VIR     850     United States Virgin Islands
+
+
+"Antigua and Barbuda",
+"Bahamas, Commonwealth of the",
+"Barbados",
+"Bermuda",
+"Belize",
+"British Virgin Islands",
+"Canada",
+"Cayman Islands",
+"Costa Rica, Republic of",
+"Cuba, Republic of",
+"Dominica, Commonwealth of",
+"Dominican Republic",
+"El Salvador, Republic of",
+"Greenland",
+"Grenada",
+"Guadeloupe",
+"Guatemala, Republic of",
+"Haiti, Republic of",
+"Honduras, Republic of",
+"Jamaica",
+"Martinique",
+"Mexico, United Mexican States",
+"Montserrat",
+"Netherlands Antilles",
+"Curaçao",
+"Aruba",
+"Sint Maarten (Netherlands)",
+"Bonaire, Saint Eustatius and Saba",
+"Nicaragua, Republic of",
+"United States Minor Outlying Islands",
+"Panama, Republic of",
+"Puerto Rico, Commonwealth of",
+"Saint Barthelemy",
+"Saint Kitts and Nevis, Federation of",
+"Anguilla",
+"Saint Lucia",
+"Saint Martin",
+"Saint Pierre and Miquelon",
+"Saint Vincent and the Grenadines",
+"Trinidad and Tobago, Republic of",
+"Turks and Caicos Islands",
+"United States of America",
+"United States Virgin Islands",

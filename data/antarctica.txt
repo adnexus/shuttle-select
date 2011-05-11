@@ -1,0 +1,5 @@
+AN      AQ      ATA     10      Antarctica (the territory South of 60 deg S)
+AN      BV      BVT     74      Bouvet Island (Bouvetoya)
+AN      GS      SGS     239     South Georgia and the South Sandwich Islands
+AN      TF      ATF     260     French Southern Territories
+AN      HM      HMD     334     Heard Island and McDonald Islands

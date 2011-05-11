@@ -1,0 +1,54 @@
+OC      AS      ASM     16      American Samoa
+OC      AU      AUS     36      Australia, Commonwealth of
+OC      SB      SLB     90      Solomon Islands
+OC      CK      COK     184     Cook Islands
+OC      FJ      FJI     242     Fiji, Republic of the Fiji Islands
+OC      PF      PYF     258     French Polynesia
+OC      KI      KIR     296     Kiribati, Republic of
+OC      GU      GUM     316     Guam
+OC      NR      NRU     520     Nauru, Republic of
+OC      NC      NCL     540     New Caledonia
+OC      VU      VUT     548     Vanuatu, Republic of
+OC      NZ      NZL     554     New Zealand
+OC      NU      NIU     570     Niue
+OC      NF      NFK     574     Norfolk Island
+OC      MP      MNP     580     Northern Mariana Islands, Commonwealth of the
+OC      UM      UMI     581     United States Minor Outlying Islands
+OC      FM      FSM     583     Micronesia, Federated States of
+OC      MH      MHL     584     Marshall Islands, Republic of the
+OC      PW      PLW     585     Palau, Republic of
+OC      PG      PNG     598     Papua New Guinea, Independent State of
+OC      PN      PCN     612     Pitcairn Islands
+OC      TK      TKL     772     Tokelau
+OC      TO      TON     776     Tonga, Kingdom of
+OC      TV      TUV     798     Tuvalu
+OC      WF      WLF     876     Wallis and Futuna
+OC      WS      WSM     882     Samoa, Independent State of
+
+
+"American Samoa",
+"Australia, Commonwealth of",
+"Solomon Islands",
+"Cook Islands",
+"Fiji, Republic of the Fiji Islands",
+"French Polynesia",
+"Kiribati, Republic of",
+"Guam",
+"Nauru, Republic of",
+"New Caledonia",
+"Vanuatu, Republic of",
+"New Zealand",
+"Niue",
+"Norfolk Island",
+"Northern Mariana Islands, Commonwealth of the",
+"United States Minor Outlying Islands",
+"Micronesia, Federated States of",
+"Marshall Islands, Republic of the",
+"Palau, Republic of",
+"Papua New Guinea, Independent State of",
+"Pitcairn Islands",
+"Tokelau",
+"Tonga, Kingdom of",
+"Tuvalu",
+"Wallis and Futuna",
+"Samoa, Independent State of",

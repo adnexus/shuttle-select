@@ -1,0 +1,113 @@
+AS      AF      AFG     4       Afghanistan, Islamic Republic of
+AS      AZ      AZE     31      Azerbaijan, Republic of
+AS      BH      BHR     48      Bahrain, Kingdom of
+AS      BD      BGD     50      Bangladesh, People's Republic of
+AS      AM      ARM     51      Armenia, Republic of
+AS      BT      BTN     64      Bhutan, Kingdom of
+AS      IO      IOT     86      British Indian Ocean Territory (Chagos Archipelago)
+AS      BN      BRN     96      Brunei Darussalam
+AS      MM      MMR     104     Myanmar, Union of
+AS      KH      KHM     116     Cambodia, Kingdom of
+AS      LK      LKA     144     Sri Lanka, Democratic Socialist Republic of
+AS      CN      CHN     156     China, People's Republic of
+AS      TW      TWN     158     Taiwan
+AS      CX      CXR     162     Christmas Island
+AS      CC      CCK     166     Cocos (Keeling) Islands
+AS      CY      CYP     196     Cyprus, Republic of
+AS      GE      GEO     268     Georgia
+AS      PS      PSE     275     Palestinian Territory, Occupied
+AS      HK      HKG     344     Hong Kong, Special Administrative Region of China
+AS      IN      IND     356     India, Republic of
+AS      ID      IDN     360     Indonesia, Republic of
+AS      IR      IRN     364     Iran, Islamic Republic of
+AS      IQ      IRQ     368     Iraq, Republic of
+AS      IL      ISR     376     Israel, State of
+AS      JP      JPN     392     Japan
+AS      KZ      KAZ     398     Kazakhstan, Republic of
+AS      JO      JOR     400     Jordan, Hashemite Kingdom of
+AS      KP      PRK     408     Korea, Democratic People's Republic of
+AS      KR      KOR     410     Korea, Republic of
+AS      KW      KWT     414     Kuwait, State of
+AS      KG      KGZ     417     Kyrgyz Republic
+AS      LA      LAO     418     Lao People's Democratic Republic
+AS      LB      LBN     422     Lebanon, Lebanese Republic
+AS      MO      MAC     446     Macao, Special Administrative Region of China
+AS      MY      MYS     458     Malaysia
+AS      MV      MDV     462     Maldives, Republic of
+AS      MN      MNG     496     Mongolia
+AS      OM      OMN     512     Oman, Sultanate of
+AS      NP      NPL     524     Nepal, State of
+AS      PK      PAK     586     Pakistan, Islamic Republic of
+AS      PH      PHL     608     Philippines, Republic of the
+AS      TL      TLS     626     Timor-Leste, Democratic Republic of
+AS      QA      QAT     634     Qatar, State of
+AS      RU      RUS     643     Russian Federation
+AS      SA      SAU     682     Saudi Arabia, Kingdom of
+AS      SG      SGP     702     Singapore, Republic of
+AS      VN      VNM     704     Vietnam, Socialist Republic of
+AS      SY      SYR     760     Syrian Arab Republic
+AS      TJ      TJK     762     Tajikistan, Republic of
+AS      TH      THA     764     Thailand, Kingdom of
+AS      AE      ARE     784     United Arab Emirates
+AS      TR      TUR     792     Turkey, Republic of
+AS      TM      TKM     795     Turkmenistan
+AS      UZ      UZB     860     Uzbekistan, Republic of
+AS      YE      YEM     887     Yemen
+
+
+
+"Afghanistan, Islamic Republic of",
+"Azerbaijan, Republic of",
+"Bahrain, Kingdom of",
+"Bangladesh, People's Republic of",
+"Armenia, Republic of",
+"Bhutan, Kingdom of",
+"British Indian Ocean Territory (Chagos Archipelago)",
+"Brunei Darussalam",
+"Myanmar, Union of",
+"Cambodia, Kingdom of",
+"Sri Lanka, Democratic Socialist Republic of",
+"China, People's Republic of",
+"Taiwan",
+"Christmas Island",
+"Cocos (Keeling) Islands",
+"Cyprus, Republic of",
+"Georgia",
+"Palestinian Territory, Occupied",
+"Hong Kong, Special Administrative Region of China",
+"India, Republic of",
+"Indonesia, Republic of",
+"Iran, Islamic Republic of",
+"Iraq, Republic of",
+"Israel, State of",
+"Japan",
+"Kazakhstan, Republic of",
+"Jordan, Hashemite Kingdom of",
+"Korea, Democratic People's Republic of",
+"Korea, Republic of",
+"Kuwait, State of",
+"Kyrgyz Republic",
+"Lao People's Democratic Republic",
+"Lebanon, Lebanese Republic",
+"Macao, Special Administrative Region of China",
+"Malaysia",
+"Maldives, Republic of",
+"Mongolia",
+"Oman, Sultanate of",
+"Nepal, State of",
+"Pakistan, Islamic Republic of",
+"Philippines, Republic of the",
+"Timor-Leste, Democratic Republic of",
+"Qatar, State of",
+"Russian Federation",
+"Saudi Arabia, Kingdom of",
+"Singapore, Republic of",
+"Vietnam, Socialist Republic of",
+"Syrian Arab Republic",
+"Tajikistan, Republic of",
+"Thailand, Kingdom of",
+"United Arab Emirates",
+"Turkey, Republic of",
+"Turkmenistan",
+"Uzbekistan, Republic of",
+"Yemen",

@@ -1,0 +1,96 @@
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:bold;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup,sub{vertical-align:baseline;position:relative;top:-0.4em;}sub{top:0.4em;}input{vertical-align:middle;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}*:focus{outline:0;}
+
+body {
+	font: normal 68.8%/1.3 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#content-wrap {
+	margin: 0 auto;
+	padding: 20px 0 0;
+	width: 530px;
+}
+
+#tabs {
+	margin: 0 8px;
+	overflow: hidden;
+}
+#tabs li {
+	background: #eee;
+	border: 1px solid #ccc;
+	border-bottom: 0 none;
+	border-radius: 4px 4px 0 0;
+	float: left;
+	margin: 0 2px;
+	padding: 3px 6px;
+}
+#tabs li.selected {
+	background: #fff;
+	border-bottom: 1px solid #fff;
+}
+
+.panel {
+	border: 1px solid #ccc;
+	margin-top: -1px;
+	padding: 10px;
+}
+
+.shuttle-select .item-search {
+	margin: 10px 0;
+	text-align: right;
+}
+.shuttle-select .item-search input {
+	width: 175px;
+}
+
+.included-list {
+	border: 1px solid #999;
+	min-height: 120px;
+}
+.included-list h3 {
+	background: #ddd;
+	border-bottom: 1px solid #999;
+	padding: 2px 6px;
+}
+
+.shuttle-select .tier {
+	border: 1px solid #999;
+	min-height: 300px;
+	position: relative;
+}
+
+.shuttle-select .title-bar {
+	background: #ddd;
+	position: absolute;
+	height: 300px;
+	width: 20px;
+}
+.shuttle-select .title-bar h3 {
+	position: relative;
+}
+.shuttle-select .title-bar h3 {
+	position: absolute;
+	-moz-transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+	white-space: nowrap;
+}
+.shuttle-select .tier .content {
+	margin: 20px 20px 20px 40px;
+}
+.shuttle-select .tier .content label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.shuttle-select ul.items li {
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+	cursor: pointer;
+	margin-top: -1px;
+	padding: 4px 10px 4px 0;
+}
+.shuttle-select ul.items li .arrows {
+	float: right;
+	font-size: 9px;
+	font-weight: bold;
+}

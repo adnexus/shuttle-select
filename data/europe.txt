@@ -1,0 +1,116 @@
+EU      AL      ALB     8       Albania, Republic of
+EU      AD      AND     20      Andorra, Principality of
+EU      AZ      AZE     31      Azerbaijan, Republic of
+EU      AT      AUT     40      Austria, Republic of
+EU      AM      ARM     51      Armenia, Republic of
+EU      BE      BEL     56      Belgium, Kingdom of
+EU      BA      BIH     70      Bosnia and Herzegovina
+EU      BG      BGR     100     Bulgaria, Republic of
+EU      BY      BLR     112     Belarus, Republic of
+EU      HR      HRV     191     Croatia, Republic of
+EU      CY      CYP     196     Cyprus, Republic of
+EU      CZ      CZE     203     Czech Republic
+EU      DK      DNK     208     Denmark, Kingdom of
+EU      EE      EST     233     Estonia, Republic of
+EU      FO      FRO     234     Faroe Islands
+EU      FI      FIN     246     Finland, Republic of
+EU      AX      ALA     248     Åland Islands
+EU      FR      FRA     250     France, French Republic
+EU      GE      GEO     268     Georgia
+EU      DE      DEU     276     Germany, Federal Republic of
+EU      GI      GIB     292     Gibraltar
+EU      GR      GRC     300     Greece, Hellenic Republic
+EU      VA      VAT     336     Holy See (Vatican City State)
+EU      HU      HUN     348     Hungary, Republic of
+EU      IS      ISL     352     Iceland, Republic of
+EU      IE      IRL     372     Ireland
+EU      IT      ITA     380     Italy, Italian Republic
+EU      KZ      KAZ     398     Kazakhstan, Republic of
+EU      LV      LVA     428     Latvia, Republic of
+EU      LI      LIE     438     Liechtenstein, Principality of
+EU      LT      LTU     440     Lithuania, Republic of
+EU      LU      LUX     442     Luxembourg, Grand Duchy of
+EU      MT      MLT     470     Malta, Republic of
+EU      MC      MCO     492     Monaco, Principality of
+EU      MD      MDA     498     Moldova, Republic of
+EU      ME      MNE     499     Montenegro, Republic of
+EU      NL      NLD     528     Netherlands, Kingdom of the
+EU      NO      NOR     578     Norway, Kingdom of
+EU      PL      POL     616     Poland, Republic of
+EU      PT      PRT     620     Portugal, Portuguese Republic
+EU      RO      ROU     642     Romania
+EU      RU      RUS     643     Russian Federation
+EU      SM      SMR     674     San Marino, Republic of
+EU      RS      SRB     688     Serbia, Republic of
+EU      SK      SVK     703     Slovakia (Slovak Republic)
+EU      SI      SVN     705     Slovenia, Republic of
+EU      ES      ESP     724     Spain, Kingdom of
+EU      SJ      SJM     744     Svalbard & Jan Mayen Islands
+EU      SE      SWE     752     Sweden, Kingdom of
+EU      CH      CHE     756     Switzerland, Swiss Confederation
+EU      TR      TUR     792     Turkey, Republic of
+EU      UA      UKR     804     Ukraine
+EU      MK      MKD     807     Macedonia, Republic of
+EU      GB      GBR     826     United Kingdom of Great Britain & Northern Ireland
+EU      GG      GGY     831     Guernsey, Bailiwick of
+EU      JE      JEY     832     Jersey, Bailiwick of
+EU      IM      IMN     833     Isle of Man
+
+
+"Albania, Republic of",
+"Andorra, Principality of",
+"Azerbaijan, Republic of",
+"Austria, Republic of",
+"Armenia, Republic of",
+"Belgium, Kingdom of",
+"Bosnia and Herzegovina",
+"Bulgaria, Republic of",
+"Belarus, Republic of",
+"Croatia, Republic of",
+"Cyprus, Republic of",
+"Czech Republic",
+"Denmark, Kingdom of",
+"Estonia, Republic of",
+"Faroe Islands",
+"Finland, Republic of",
+"Åland Islands",
+"France, French Republic",
+"Georgia",
+"Germany, Federal Republic of",
+"Gibraltar",
+"Greece, Hellenic Republic",
+"Holy See (Vatican City State)",
+"Hungary, Republic of",
+"Iceland, Republic of",
+"Ireland",
+"Italy, Italian Republic",
+"Kazakhstan, Republic of",
+"Latvia, Republic of",
+"Liechtenstein, Principality of",
+"Lithuania, Republic of",
+"Luxembourg, Grand Duchy of",
+"Malta, Republic of",
+"Monaco, Principality of",
+"Moldova, Republic of",
+"Montenegro, Republic of",
+"Netherlands, Kingdom of the",
+"Norway, Kingdom of",
+"Poland, Republic of",
+"Portugal, Portuguese Republic",
+"Romania",
+"Russian Federation",
+"San Marino, Republic of",
+"Serbia, Republic of",
+"Slovakia (Slovak Republic)",
+"Slovenia, Republic of",
+"Spain, Kingdom of",
+"Svalbard & Jan Mayen Islands",
+"Sweden, Kingdom of",
+"Switzerland, Swiss Confederation",
+"Turkey, Republic of",
+"Ukraine",
+"Macedonia, Republic of",
+"United Kingdom of Great Britain & Northern Ireland",
+"Guernsey, Bailiwick of",
+"Jersey, Bailiwick of",
+"Isle of Man",
