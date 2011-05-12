@@ -36,15 +36,15 @@
 							<h3><div>All Locations</div></h3>
 						</div>
 						<div class="content">
-							<label for="UNIQUE-NAME-include-all"><input type="checkbox" name="include_all" id="UNIQUE-NAME-include-all" /> Include all</label>
+							<label for="UNIQUE-NAME-include-all"><input type="checkbox" name="include_all" id="UNIQUE-NAME-include-all" checked="checked" /> Include all</label>
 							<ul class="items">
-								<li>Africa <span class="arrows">&gt;&gt;</span></li>
+								<!-- <li>Africa <span class="arrows">&gt;&gt;</span></li>
 								<li>Asia &amp; Middle East <span class="arrows">&gt;&gt;</span></li>
 								<li>Canada &amp; United States <span class="arrows">&gt;&gt;</span></li>
 								<li>Europe <span class="arrows">&gt;&gt;</span></li>
 								<li>Latin America <span class="arrows">&gt;&gt;</span></li>
 								<li>Oceania <span class="arrows">&gt;&gt;</span></li>
-								<li>South America <span class="arrows">&gt;&gt;</span></li>
+								<li>South America <span class="arrows">&gt;&gt;</span></li> -->
 							</ul>
 						</div>
 					</div>
@@ -56,6 +56,10 @@
 	(function(){
 		var ShuttleSelect = function(element) {
 			var _$el = null;
+			var _$list = null;
+			var _$items = null;
+			var hasChildren = true;
+			var location = null;
 			
 			var formatVerticalText = function() {
 				var title = _$el.find('.title-bar h3');
@@ -65,19 +69,86 @@
 				});
 			}
 			
-			var formatItem = function(item) {
-				return '<li>'+item+' <span class="arrows">&gt;&gt;</span></li>';
+			var formatItem = function(item, bool) {
+				if (bool) {
+					item += '<span class="arrows">&gt;&gt;</span>';
+				} else {
+					item = '<input type="checkbox" checked="checked" /> ' + item;
+				}
+				return '<li>'+item+'</li>';
 			}
 			
 			var buildItemList = function(items) {
-				
+				var formattedItems = [];
+				for (var i in items) {
+					formattedItems.push(formatItem(i, hasChildren));
+				}
+				_$list.html(formattedItems.join('\n'));
+				_$items = _$el.find('ul.items li');
+				hasChildren = false;
 			}
+			
+			var getItemsForLocation = function(location) {
+				var formattedItems = [];
+				for (var i=0; i < countries[location].length; i++) {
+					formattedItems.push(formatItem(countries[location][i], hasChildren));
+				};
+				_$list.html(formattedItems.join('\n'));
+				_$items = _$el.find('ul.items li');
+				bindCheckboxEvents();
+			}
+			
+			var bindItemEvents = function() {
+				_$items.bind('click', function(event){
+					location = this.firstChild.textContent;
+					getItemsForLocation(location);
+				});
+			}
+			
+			var bindCheckboxEvents = function() {
+				var _$itemCheckboxes = _$items.find(':checkbox');
+				_$itemCheckboxes.bind('click', function(event){
+					addItemToSelectedList($(this).parent().text(), this.checked);
+				});
+				_$el.find('input[name="include_all"]').bind('click', function(){
+					if (!this.checked) {
+						clearList();
+					} else {
+						setLocation();
+					}
+					_$itemCheckboxes.attr('checked', this.checked);
+				});
+			}
+			
+			var setLocation = function() {
+				_$selectedList.append('<li>'+location+'</li>');
+			}
+			
+			var clearList = function() {
+				_$selectedList.empty();
+			}
+			
+			var addItemToSelectedList = function(item, bool) {
+				if (bool) {
+					var li = '<li>'+item+'</li>';
+					_$selectedList.append(li);
+				} else {
+					var selector = ':contains('+item+')';
+					_$selectedList.find(selector).remove();
+				}
+			}
+			this.addItemToSelectedList = addItemToSelectedList;
 			
 			this.init = function(element) {
 				_$el = $(element);
+				_$list = _$el.find('ul.items');
+				_$selectedList = _$el.find('.included-list ul');
 				
 				formatVerticalText();
+				buildItemList(countries);
+				bindItemEvents();
 			}
+			
 		}
 		
 		$(function(){
