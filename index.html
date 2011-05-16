@@ -95,6 +95,7 @@
 				};
 				_$list.html(formattedItems.join('\n'));
 				_$items = _$el.find('ul.items li');
+				setLocation(location);
 				bindCheckboxEvents();
 			}
 			
@@ -118,6 +119,11 @@
 					}
 					_$itemCheckboxes.attr('checked', this.checked);
 				});
+			}
+			
+			var insertTitleBar = function() {
+				var titleBar = $('<div class="title-bar"/>');
+				titleBar.append('<h3>'+location+'</h3>').appendTo(_$el.find('.tier'));
 			}
 			
 			var setLocation = function() {
@@ -357,7 +363,7 @@
 				"Mexico, United Mexican States",
 				"Montserrat",
 				"Netherlands Antilles",
-				"Curaçao",
+				"Cura&ccedil;ao",
 				"Aruba",
 				"Sint Maarten (Netherlands)",
 				"Bonaire, Saint Eustatius and Saba",
